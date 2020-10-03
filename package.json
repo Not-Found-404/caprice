@@ -1,0 +1,22 @@
+{
+  "name": "caprice",
+  "version": "1.0.0",
+  "description": "Online slide editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillowsTao/caprice.git"
+  },
+  "keywords": [
+    "slide"
+  ],
+  "author": "BillowsTao <taobillows@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BillowsTao/caprice/issues"
+  },
+  "homepage": "https://github.com/BillowsTao/caprice#readme"
+}
