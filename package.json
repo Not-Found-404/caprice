@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/BillowsTao/caprice/issues"
   },
-  "homepage": "https://github.com/BillowsTao/caprice#readme"
+  "homepage": "https://github.com/BillowsTao/caprice#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0"
+  }
 }
